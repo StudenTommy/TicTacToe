@@ -1,0 +1,61 @@
+table {
+  margin-top: 10rem;
+  margin-right: auto;
+  margin-left: auto;
+  border: 1px solid black;
+  border-spacing: 0;
+  border-radius: 20px;
+}
+
+table th {
+  height: 7rem;
+  width: 7rem;
+  border: 3px solid black;
+}
+
+table th input {
+  font-size: 90px;
+  border: none;
+  border-radius: 20px;
+  height: 80%;
+  width: 80%;
+  background: #FFFFFF;
+  cursor: pointer;
+}
+
+table #th1 {
+  border-top: none;
+  border-left: none;
+}
+
+table #th2 {
+  border-top: none;
+}
+
+table #th3 {
+  border-top: none;
+  border-right: none;
+}
+
+table #th4 {
+  border-left: none;
+}
+
+table #th6 {
+  border-right: none;
+}
+
+table #th7 {
+  border-bottom: none;
+  border-left: none;
+}
+
+table #th8 {
+  border-bottom: none;
+}
+
+table #th9 {
+  border-bottom: none;
+  border-right: none;
+}
+/*# sourceMappingURL=main.css.map */
